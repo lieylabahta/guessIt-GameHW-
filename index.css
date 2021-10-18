@@ -1,0 +1,78 @@
+body{
+    background-color: #6e5b53;
+    
+    
+    
+    
+    }
+    .h1{
+        text-transform: uppercase;
+        text-align:center;
+        
+    }
+    .number{
+    background-color:rgb(110, 146, 116);
+    border: solid 3px ;
+    border-radius: 10px;
+    width: 90px;
+    height: 50px;
+    position: relative;
+    left:30rem;
+    }
+    #check{
+        background-color:rgb(110, 146, 116);
+    border: solid 3px ;
+    border-radius: 10px;
+    width: 100px;
+    height: 50px;
+    
+    }
+    #guess{
+        background-color:rgb(110, 146, 116);
+    border: solid 3px ;
+    border-radius: 10px;
+    width: 100px;
+    height: 50px;
+    }
+    #again{
+    background-color:rgb(110, 146, 116);
+    border: solid 3px ;
+    border-radius: 10px;
+    width: 90px;
+    height: 50px;
+    }
+    .animated{
+    font-size: large;
+    text-align: center;
+    
+    }
+    #left{
+    position: relative;
+    top: 18rem;
+    
+    }
+    #right{
+    position: absolute;
+    left:65rem;
+    top: 28rem;
+    
+    }
+    .message{
+    font-size: 15px;
+    order: 1;
+    }
+    #score{
+    background-color:rgb(110, 146, 116);
+    width: 100px;
+    height: 50px;
+    border: black 1px;
+    }
+    
+    .highscore{
+        background-color:rgb(110, 146, 116);
+        border: solid 3px ;
+        border-radius: 10px;
+        width: 100px;
+        height: 50px;  
+    }
+        
